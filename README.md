@@ -1,0 +1,2 @@
+# AI-Enabled-FinTech-B2B-Invoice-Management-Application.
+Seller business interacts with various businesses and sells goods to all of them at various times. Hence, the seller business needs to keep track of the total amount it owes from all the buyers. This involves keeping track of all invoices from all the buyers. Each invoice will have various important fields like a payment due date, invoice date, invoice amount, baseline date etc.
