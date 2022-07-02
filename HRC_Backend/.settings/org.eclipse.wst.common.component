@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="HRC_Backend">
+                
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <dependent-module archiveName="gson-2.6.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ANKUSH/Downloads/gson-2.6.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="org.json.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ANKUSH/Downloads/org.json.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mysql-connector-java-8.0.26.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/ANKUSH/Downloads/mysql-connector-java-8.0.26.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                
+        <property name="context-root" value="HRC_Backend"/>
+                
+        <property name="java-output-path" value="/HRC_Backend/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
